@@ -10,27 +10,27 @@ Please note that the default riverbed deposit is sand and gravel, users can chan
 
 Inputs
 
-His: incident solar (shortwave) radiation (w m-2)   ------------Mfile 
+His: incident solar (shortwave) radiation    ------------Mfile 
 
-Hdl: Downward thermal (Longwave) radiation (w m-2)  ------------Mfile 
+Hdl: Downward thermal (Longwave) radiation   ------------Mfile 
 
-Ta: Air temperature (°C)                            ------------Mfile 
+Ta: Air temperature                          ------------Mfile 
 
-Uw:  Wind speed (m/s)                               ------------Mfile 
+Uw: Wind speed                               ------------Mfile 
 
-rh: Relative humidity (0-1)                         ------------Mfile 
+rh: Relative humidity                        ------------Mfile 
 
-P: Surface pressure (pa)                            ------------Mfile 
+P: Surface pressure                          ------------Mfile 
 
-h:  River stage (m)                                 ------------Sfile 
+h: River stage                               ------------Sfile 
 
-rivericeoff: First day of river induation (DOY)
+rivericeoff: First day of river induation
 
-rivericeon: Last day of river induation (DOY)
+rivericeon: Last day of river induation
 
 Output
 
-Tw: water temperature (°C)
+Tw: Water temperature
 
 
 
