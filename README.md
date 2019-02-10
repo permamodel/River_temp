@@ -10,9 +10,9 @@ Please note that the default riverbed deposit is sand and gravel, users can chan
 
 Inputs
 
-His: incident solar (shortwave) radiation    ------------Mfile 
+His: Incident solar (shortwave) radiation    ------------Mfile 
 
-Hdl: Downward thermal (Longwave) radiation   ------------Mfile 
+Hdl: Downward thermal (longwave) radiation   ------------Mfile 
 
 Ta: Air temperature                          ------------Mfile 
 
