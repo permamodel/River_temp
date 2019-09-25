@@ -32,5 +32,5 @@ Output
 
 Tw: Water temperature
 
-
+The underlying theory and assumptions of this model are published in JGR-ES: Changing Arctic River Dynamics Cause Localized Permafrost Thaw, Lei Zheng Irina Overeem Kang Wang Gary D. Clow, 2019. Journal of Geophysical Research - Earth Surface. https://doi.org/10.1029/2019JF005060
 
